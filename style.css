@@ -38,7 +38,7 @@ a {
 
 .logo {
   margin: 0 auto;
-  width: 16%;
+  width: 50%;
   display: block;
   object-fit: cover;
   object-position: center;
@@ -197,10 +197,6 @@ input[type="submit"]:hover {
 
   .logo-space {
     padding: 3% 0;
-  }
-
-  .logo {
-    width: 30%;
   }
 
   .header {
