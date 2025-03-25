@@ -23,8 +23,10 @@
 
 <body>
 	<div class="logo-space">
-		<video src="shiitake.webm" class="logo" id="logo" muted></video>
-		<video src="shiitake.gif" class="logo" id="logo" muted></video>
+		<video class="logo" id="logo" muted>
+			<source src="shiitake.webm" type="video/webm">
+  			<source src="shiitake.gif" type="video/gif">
+		</video>
 	</div>
 
 	<div class="header">
