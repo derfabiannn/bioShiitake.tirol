@@ -24,6 +24,7 @@
 <body>
 	<div class="logo-space">
 		<video src="shiitake.webm" class="logo" id="logo" muted></video>
+		<video src="shiitake.gif" class="logo" id="logo" muted></video>
 	</div>
 
 	<div class="header">
